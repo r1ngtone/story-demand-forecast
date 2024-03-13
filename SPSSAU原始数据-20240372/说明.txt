@@ -1,0 +1,2 @@
+SPSSAU提供csv格式数据，并且将标签tags存储于tags.csv文件中。
+如果上传数据时涉及标签tags,可参考此页面：https://spssau.com/helps/basics/uploaddatas.html
