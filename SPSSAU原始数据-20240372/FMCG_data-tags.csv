@@ -1,0 +1,24 @@
+标题,数字,标签
+Location_type,1.0,Rural
+,2.0,Urban
+WH_capacity_size,1.0,Large
+,2.0,Mid
+,3.0,Small
+zone,1.0,East
+,2.0,North
+,3.0,South
+,4.0,West
+WH_regional_zone,1.0,Zone 1
+,2.0,Zone 2
+,3.0,Zone 3
+,4.0,Zone 4
+,5.0,Zone 5
+,6.0,Zone 6
+wh_owner_type,1.0,Company Owned
+,2.0,Rented
+approved_wh_govt_certificate,1.0,A
+,2.0,A+
+,3.0,B
+,4.0,B+
+,5.0,C
+,6.0,NA
