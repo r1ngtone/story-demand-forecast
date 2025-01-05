@@ -11,11 +11,11 @@ data = pd.read_csv('FMCG_data.csv')
 # 探索数据
 print(data.head())
 print(data.describe())
-#hint
+
 # 数据可视化
 sns.pairplot(data)
 plt.show()
-#测试 git
+
 # 数据准备
 X = data[['feature1', 'feature2', ...]]  # 根据你的数据选择特征列
 y = data['target_column']  # 根据你的数据选择目标列
